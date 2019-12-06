@@ -1,5 +1,5 @@
 # Chapter 4
-## GPS: The General Problem Solver
+## GPS: 일반 문제 해결기
 
 > *There are now in the world machines that think.*
 
